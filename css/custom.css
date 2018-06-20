@@ -26,6 +26,6 @@ body {padding: 0;
 border-radius: 10px;
 }
 .btn-cust{
-    padding: 26px;
-    border-radius: 30px;
+    padding: 26px !important;
+    border-radius: 30px !important;
 }
