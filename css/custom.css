@@ -25,3 +25,7 @@ body {padding: 0;
     background-color: rgba(0,0,0,0.5);
 border-radius: 10px;
 }
+.btn-cust{
+    padding: 26px;
+    border-radius: 30px;
+}
